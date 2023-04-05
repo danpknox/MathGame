@@ -1,3 +1,10 @@
+import java.io.*;
+import static java.lang.System.*;
+
+import java.util.Scanner;
+import java.lang.Math;
+
+
 public class MathGame
 {
     public static void main(String[] args)
